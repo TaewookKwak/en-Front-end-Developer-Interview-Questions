@@ -5,6 +5,10 @@ permalink: /questions/general-questions/index.html
 ---
 
 * What did you learn yesterday/this week?
+  I learned about the Rabin-Karp Algorithm. The Rabin-Karp Algorithm is a string matching algorithm used to find pattern within a large text. it is particulalry useful when searching multiple patterns simultaneously. The algorithm works by using a rolling hash function to efficiently compare the hash values of the pattern and substrings of the text. If the hash values match, it performs a full comparison of the pattern and substrings of the text. It has several advantages that make it a valuable tool in many practical applications such as text editors and search engines hightlight keywords and plagiarism detection. Its disadvantange is to able to have the worst time complexity when frequent hash collisions occur. The complexity can go to O(M*N).
+In general, the space complexity is O(1).
+In general, the time complexity is O(N+N).
+
 * What excites or interests you about coding?
 * What is a recent technical challenge you experienced and how did you solve it?
 * When building a new web site or maintaining one, can you explain some techniques you have used to increase performance?
