@@ -10,6 +10,7 @@ In general, the space complexity is O(1).
 In general, the time complexity is O(N+N).
 
 * What excites or interests you about coding?
+    My wife excels at manintaining focus during simple, repetitive tasks, while i tend to concentrate best when engaging in new task or leaning new things. This is why i like coding. Living in 2024, everything around us is accelerating and updating due to advancements such as AI. Development, in particular, is rapidly evolving. As languages, libraries, and frameworks grow and update at an exponential rate, we must update our code to keep pace, and at times, learn and apply new techs. Personally, I view this trend of constant learning and adaptation positively, which makes coding suited to my interests and engaging for me.
 * What is a recent technical challenge you experienced and how did you solve it?
 * When building a new web site or maintaining one, can you explain some techniques you have used to increase performance?
 * Can you describe some SEO best practices or techniques you have used lately?
